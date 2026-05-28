@@ -13,7 +13,7 @@ I am a 17-year-old student and developer from India. I am driven by curiosity an
 Here are the tools I actively use and enjoy working with:
 
 * **Languages:** Rust, Python, TypeScript, JavaScript, HTML/CSS
-* **Frameworks & Libraries:** React, React Native, Node.js, Express, Flask
+* **Frameworks & Libraries:** [React](https://react.dev), [Tauri](https://tauri.app), [Node.js](https://nodejs.org), [Express](https://expressjs.com), [Flask](https://flask.palletsprojects.com), [Serenity](https://github.com/serenity-rs/serenity), [Twilight](https://github.com/twilight-rs/twilight)
 * **Databases:** PostgreSQL, MongoDB
 * **Tools & Platforms:** Git, Vite, TailwindCSS, Vercel, Netlify
 
