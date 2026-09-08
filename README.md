@@ -1,8 +1,8 @@
 # Hi, I'm Faiz.
 
-> *Driven by genuine curiosity—because the best work is born from interest, not obligation.*
+> *FOSS enthusiast who loves reading source code and reverse engineering.*
 
-I am a 17-year-old student and developer from India. I am driven by curiosity and a genuine interest in tech, building things simply to learn how they work and explore new concepts.
+I am a 17-year-old student and developer from India. I spend my time building things simply to learn how they work, explore new concepts and reverse engineering systems.
 
 ### ⚡ Current Focus
 - 🦀 Diving deep into **Rust** and exploring systems programming.
